@@ -32,10 +32,10 @@ k的数值代表循环次数，每次循环都会自动从ABCD中随机选择一
 
 最后
 
-./spider.py
+./moso.py
 
 或者
 
-python spider.py
+python moso.py
 
 来运行他吧，之后你就可以挂着去干其他事情啦！
