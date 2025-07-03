@@ -1,3 +1,6 @@
+EdgeOne logo and website link: Best Asian CDN, Edge, and Secure Solutions - Tencent EdgeOne
+[![Use EdgeOne Pages to deploy](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?repository-url=https://github.com/nodfe/go_moso)
+
 # go_moso
 
 蓝墨云刷分工具
